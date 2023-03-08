@@ -1,1 +1,3 @@
 # pierwszerepo
+
+dodana pierwsza linijka
